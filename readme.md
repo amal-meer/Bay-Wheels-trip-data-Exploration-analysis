@@ -3,6 +3,7 @@
 
 
 ## Dataset
+[Link to the dataset](https://www.kaggle.com/franckjay/ford-gobike-data)
 
 > This dataset contains information about Bay Wheels's trip during 2017.
 There're more than 500000 records. Each record represents the trip information (including time, station, bike, user info.)
